@@ -40,13 +40,20 @@ Planning for the project was done using a Trello Board as not only is it free to
 
 An initial trello board was made before development
 
+![Initial Trello](https://user-images.githubusercontent.com/48153566/120951606-24d9fe80-c741-11eb-888f-4a526522fc46.png)
+
 A new trello board was then created after implementation in order to highlight any changes in the development process
+
+![secondtrello](https://user-images.githubusercontent.com/48153566/120951617-2a374900-c741-11eb-9aeb-559c9b07e75f.png)
 
 ## Database
 
 An entity diagram is shown displaying the attributes for the object in the application
 
+![bmi](https://user-images.githubusercontent.com/48153566/120951644-39b69200-c741-11eb-91c7-27b13b19b0f4.png)
+
 The three attributes utilised were Height, Weight & BMI
+
 
 ## Risk Assessment
 
@@ -54,21 +61,34 @@ A risk assessment register was made to identify the potential risks faced by the
 
 Initial risk assessment pre development:
 
+![initialriskassessment](https://user-images.githubusercontent.com/48153566/120951660-40450980-c741-11eb-9fa7-bfb6708e9cb6.png)
+
 Risk assessment after app development:
+
+![second risk](https://user-images.githubusercontent.com/48153566/120951672-476c1780-c741-11eb-9a6c-2ccdb5713267.png)
 
 # Test Plan
 
 Test plans were also used to identify what sections of the program were expected to be tested & how
 
+![testplanscreenshot (2)](https://user-images.githubusercontent.com/48153566/120951736-708ca800-c741-11eb-955a-28546b819e55.png)
+
+
 # Test Results
 
 PyTest was used to test the functionalities of my project, The tests used were automated by Jenkins; running whenever the the app was deployed onto the server. Results of test are shown below alongside a snippet of the test logs
+
+![testshit](https://user-images.githubusercontent.com/48153566/120951759-797d7980-c741-11eb-9a27-9373922058b1.png)
+
+![testlog](https://user-images.githubusercontent.com/48153566/120951766-7d110080-c741-11eb-990f-dcbff9452324.png)
 
 # Continuous Integration
 
 Continuous Integration Pipeline was used to show how the app would not only be designed but also developed and deployed to the user in an automated process
 
 Shown below is the CI Pipeline for my BMI Application:
+
+![CIpipeline](https://user-images.githubusercontent.com/48153566/120951690-505ce900-c741-11eb-8a83-058973600603.png)
 
 
 # Architecture
@@ -86,9 +106,15 @@ Shown below is the CI Pipeline for my BMI Application:
 
 Service 1 displays the website to the user and stores results in a database, service 2 and 3 generate random objects, Service 4 produces a result based off service 2 and 3 to then be sent to Service 1 as an output
 
+![servicesdiagram](https://user-images.githubusercontent.com/48153566/120951828-a467cd80-c741-11eb-99ef-d8e8d1684ba7.png)
+
 # Front End Design
 
 Below is an image showcasing an example of the front end of the application
+
+![appworking](https://user-images.githubusercontent.com/48153566/120951855-b9dcf780-c741-11eb-92fc-424420c9a646.png)
+
+![jenkinshit](https://user-images.githubusercontent.com/48153566/120951861-be091500-c741-11eb-9b09-de652e398c9b.png)
 
 # Author
 
