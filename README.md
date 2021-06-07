@@ -10,7 +10,7 @@
     * [Risk Assessment](#Risk-Assessment)
     * [Test plan](#Test-plan)
 * [Test Results](#Test-Results)
-* [Conintunous Deployment and Integration](#Conintunous-Deployment-and-Integration)  
+* [Conntinuous Deployment and Integration](#Continuous-Deployment-and-Integration)  
 * [Architecture](#Architectures)
 * [Service configuration](#Service-configuration)
 * [Front-End Design](#Front-End-Design)
