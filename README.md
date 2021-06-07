@@ -77,7 +77,7 @@ Shown below is the CI Pipeline for my BMI Application:
 
 **Docker Swarm** was used as an orchestration tool allowing for the automation of the maintenance of this project. It utilises virtual machines & replaces failed containers instantly allowing for instant rollout of application updates
 
-**Nginx** is utilised as a load balancer as well as a reverse proxy. Users can utilise the nginx server url to view the website. Nginx has also been used to due its light weight resource use aswell being scaled easily with minimal hardware
+**Nginx** is utilised as a load balancer as well as a reverse proxy. Users can utilise the nginx server url to view the website. Nginx has also been used to due its light weight resource use as well as being scaled easily with minimal hardware
 
 **Ansible playbooks** were used to set up the build environment for the app
 
